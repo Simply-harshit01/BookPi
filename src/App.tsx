@@ -31,7 +31,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 py-6">
           <div className="flex items-center gap-2">
             <BookOpen className="w-8 h-8 text-blue-500" />
-            <h1 className="text-3xl font-bold text-gray-900">BookReads</h1>
+            <h1 className="text-3xl font-bold text-gray-900">BookPi</h1>
           </div>
         </div>
       </header>
