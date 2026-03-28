@@ -1,0 +1,5 @@
+ALTER TABLE books_cache
+ADD COLUMN IF NOT EXISTS summary TEXT;
+
+ALTER TABLE books_cache
+ADD COLUMN IF NOT EXISTS rating NUMERIC(3, 2);

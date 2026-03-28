@@ -1,0 +1,11 @@
+{
+  "bias": 0.2,
+  "genreMatch": 0.35,
+  "favoriteTitleMatch": 0.3,
+  "dislikedTitleMatch": -0.9,
+  "lastReadSimilarity": 0.15,
+  "likeDecay": 0.4,
+  "saveDecay": 0.4,
+  "dislikeDecay": -0.6,
+  "popularityPrior": 0.25
+}
