@@ -1,4 +1,4 @@
-# BookPi Monorepo
+# BookPi
 
 Personalized book recommendation app v1.
 
